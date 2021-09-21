@@ -5,4 +5,4 @@ To read about the game
 
 [Wikipedia](https://en.wikipedia.org/wiki/Simon_(game))
 
-[To try it ](https://simon-game1.firebaseapp.com/)
+[To try it ](https://simon.f2had.me/)
